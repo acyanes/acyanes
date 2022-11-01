@@ -3,6 +3,9 @@
 - :sunglasses: Mostly interested in full-stack applications, performance and optimizations.
 - ⚡ Fun fact: Anything in my github is outside my 9-5. I enjoy tinkering with different tech even if I don't complete a full project. The reality is if I am not interested, then I am not going to code outside of work.
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acyanes)](https://github.com/acyanes/github-readme-stats)
+
 <!--
 **acyanes/acyanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
