@@ -1,7 +1,6 @@
 ## Yuh 
 - 🔭 Just building.
-- :sunglasses: Mostly interested in full-stack applications, web3, performance and optimizations.
-- ⚡ Fun fact: Anything in my github is outside my 9-5. I enjoy tinkering with different tech even if I don't complete a full project. The reality is if I am not interested, then I am not going to code outside of work.
+- :sunglasses: Mostly interested Web, performance and optimizations.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acyanes&layout=compact)](https://github.com/acyanes/github-readme-stats)
 
