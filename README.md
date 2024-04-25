@@ -1,6 +1,5 @@
-## Yuh 
+## Hi
 - 🔭 Just building.
-- :sunglasses: Mostly interested Web/Mobile, performance and optimizations.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acyanes&layout=compact)](https://github.com/acyanes/github-readme-stats)
 
